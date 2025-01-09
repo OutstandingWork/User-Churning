@@ -12,3 +12,4 @@
   * Since the code uses GPU for faster execution, it should be run on CUDA enabled GPU's. I ran this code on both Kaggle and Colab. The initial installation of RAPIDS library and import statements will clarify if the GPU used has compatible CUDA version. If installation and import statements run successfully, the GPU is good to go.
  
   * The path to the files has to be adjusted according to the environment you are using.
+Link to the csv files needed for running the code ([https://drive.google.com/drive/folders/1Bf5to-ykm86IcEMWpfzhfa7CTr5KAtYr?usp=sharing](url))
